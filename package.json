@@ -1,0 +1,19 @@
+{
+  "name": "codeflaunt-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravan318/codeFlaunt-backend.git"
+  },
+  "author": "shravan318",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shravan318/codeFlaunt-backend/issues"
+  },
+  "homepage": "https://github.com/shravan318/codeFlaunt-backend#readme"
+}
